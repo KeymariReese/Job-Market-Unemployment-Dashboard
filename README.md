@@ -93,8 +93,7 @@ Interactive year filters for trend analysis
 💼 What jobs and skills are most in demand?
 🎓 Does higher college degree percentage lower unemployment rates?
 
-📷 Dashboard Preview
-
+Database Used: https://www.kaggle.com/datasets/shamimhasan8/job-market-and-unemployment-trends-dataset
 
 🙌 Let’s Connect
 If you’re working in workforce analytics or exploring data storytelling, I’d love to connect!
