@@ -35,7 +35,7 @@ Power BI → Dashboard design & interactive visuals
 
 Card KPIs (total postings, skills, states, unemployment rate)
 
-Bar/column charts, donut chart, pie chart
+Bar/column charts, donut chart, scatter plot, line chart
 
 Slicers for year filtering
 
@@ -82,7 +82,7 @@ Aggregated job totals by age groups
 
 Designed KPIs: job postings, skills, unemployment rate
 
-Visuals: bar charts, pie chart, donut chart
+Visuals: bar charts, scatter plot, donut chart, line chart
 
 Interactive year filters for trend analysis
 
